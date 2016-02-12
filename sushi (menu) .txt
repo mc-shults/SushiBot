@@ -1,0 +1,9 @@
+http://kushai-sushi.by/menu/sushi/nigiri
+http://kushai-sushi.by/menu/sushi/gukani
+http://kushai-sushi.by/menu/sushi/maki
+http://kushai-sushi.by/menu/sushi/ura_maki
+http://kushai-sushi.by/menu/sushi/futo_maki
+http://kushai-sushi.by/menu/sushi/spring-rolly
+http://kushai-sushi.by/menu/sushi/zapechennue_rollu
+http://kushai-sushi.by/menu/sushi/opalennue_rollu
+http://kushai-sushi.by/menu/sushi/filadelfia
